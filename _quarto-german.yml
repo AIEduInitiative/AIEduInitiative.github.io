@@ -1,0 +1,60 @@
+project:
+  output-dir: docs/de
+
+execute:
+  freeze: auto
+
+website:
+  title: "AIEdu"
+  favicon: images/favicon.png
+  site-url: https://www.quantumjitter.com
+  description: "Artificial Intelligence Educational Initiative"
+  twitter-card: true
+  open-graph: true
+  navbar:
+    title: AIEdu
+    left:
+      #- text: Projekte
+      #  href: projects/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Veranstaltungen
+        href: events/index.qmd
+      - text: KI-Schlüsselbegriffe
+        href: glossary/index.qmd
+      - text: Über uns
+        href: about/index.qmd
+    right:
+      - href: docs/de
+        text: Deutsch
+      - href: docs/en
+        text: English
+  page-footer:
+    border: false
+    left: "Published with [Quarto](https://quarto.org/) v<?quarto.version?> "
+    right: "© 2023 [AI Educational Initiative](/about)"
+
+format:
+  html:
+    theme:
+      light: [flatly, scss/light.scss]
+    css: scss/styles.css
+    code-link: true
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    highlight-style: gruvbox
+    df-print: kable
+    comments:
+      giscus:
+        repo: AIEduInitiative/AIEduInitiative.github.io
+        category: "Comments"
+        mapping: "pathname"
+        reactions-enabled: true
+        loading: lazy
+        input-position: "bottom"
+
+editor: visual
+filters:
+  - quarto-version.lua
+

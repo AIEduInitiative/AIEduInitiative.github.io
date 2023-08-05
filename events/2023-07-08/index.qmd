@@ -1,0 +1,40 @@
+---
+title: "Meetup in Heidelberg: Unpacking the Black Box"
+author: "AIEdu Team"
+date: "2023-07-08"
+categories: [AImeetup, SmartCities, IoT]
+description: "Progress, changes, risks and challenges"
+image: "feature.png"
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
+---
+
+::: columns
+::: {.column width="40%"}
+![](poster.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+On 8th of July, we had the pleasure to host a meetup on Artificial Intelligence!
+Aimed at a general audience, we gathered AI scientists and users to share insights on their research, future plans, and concerns related to AI developments.
+
+Started by engaging intro by the host Veli Vural Uslu, followed by a keynote lecture by [Gürkan Solmaz](https://www.linkedin.com/in/gsolmaz/), we learned about AI research in the context of making cities smarter and more livable.
+
+In the following panel discussion, the audience engaged in a lively exchange with Gürkan, joined by [Ana Victoria Ponce Bobadilla](https://www.linkedin.com/in/ana-victoria-ponce-bobadilla-521627101/) and [Jude A.](https://www.linkedin.com/in/jude-a-787790a5/), thrown into the file of questions by [Magdalena Szczygieł-Buchner](https://www.linkedin.com/in/magdalena-szczygiel/).
+:::
+:::
+
+
+Thank you all who have joined us in Heidelberg last weekend! We hope you enjoyed it as much as we all did. We are looking forward to seeing you again - hopefully already this fall in Munich.
+
+![](picture-1.jpg){width=80% fig-align="center"}
+
+We are really grateful to [Safak Chasan](https://www.linkedin.com/in/safak-chasan-3753782b/), [Joel Ottosson](https://www.linkedin.com/in/joel-ottosson-414178116/), [Denitsa Dragneva](https://www.linkedin.com/in/denitsa-dragneva-9627a45a/), [Melania Barile](https://www.linkedin.com/in/melania-barile-2a29841a4/), [Zeynep Sena Ağım Uslu](https://www.linkedin.com/in/zeynepsenaagim/), and other LinkedIn-less volunteers who made this event possible!
+
+**PS.** Follow us for more info on AI and future events 😊

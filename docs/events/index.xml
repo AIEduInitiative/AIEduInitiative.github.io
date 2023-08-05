@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>AIEdu</title>
+<link>https://www.quantumjitter.com/events/index.html</link>
+<atom:link href="https://www.quantumjitter.com/events/index.xml" rel="self" type="application/rss+xml"/>
+<description>Artificial Intelligence Educational Initiative</description>
+<generator>quarto-1.4.294</generator>
+<lastBuildDate>Fri, 07 Jul 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Meetup in Heidelberg: Unpacking the Black Box</title>
+  <dc:creator>AIEdu Team</dc:creator>
+  <link>https://www.quantumjitter.com/events/2023-07-08/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="https://www.quantumjitter.com/events/2023-07-08/poster.jpg" class="img-fluid"></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:55%;">
+<p>On 8th of July, we had the pleasure to host a meetup on Artificial Intelligence! Aimed at a general audience, we gathered AI scientists and users to share insights on their research, future plans, and concerns related to AI developments.</p>
+<p>Started by engaging intro by the host Veli Vural Uslu, followed by a keynote lecture by <a href="https://www.linkedin.com/in/gsolmaz/">Gürkan Solmaz</a>, we learned about AI research in the context of making cities smarter and more livable.</p>
+<p>In the following panel discussion, the audience engaged in a lively exchange with Gürkan, joined by <a href="https://www.linkedin.com/in/ana-victoria-ponce-bobadilla-521627101/">Ana Victoria Ponce Bobadilla</a> and <a href="https://www.linkedin.com/in/jude-a-787790a5/">Jude A.</a>, thrown into the file of questions by <a href="https://www.linkedin.com/in/magdalena-szczygiel/">Magdalena Szczygieł-Buchner</a>.</p>
+</div>
+</div>
+<p>Thank you all who have joined us in Heidelberg last weekend! We hope you enjoyed it as much as we all did. We are looking forward to seeing you again - hopefully already this fall in Munich.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.quantumjitter.com/events/2023-07-08/picture-1.jpg" class="img-fluid figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+<p>We are really grateful to <a href="https://www.linkedin.com/in/safak-chasan-3753782b/">Safak Chasan</a>, <a href="https://www.linkedin.com/in/joel-ottosson-414178116/">Joel Ottosson</a>, <a href="https://www.linkedin.com/in/denitsa-dragneva-9627a45a/">Denitsa Dragneva</a>, <a href="https://www.linkedin.com/in/melania-barile-2a29841a4/">Melania Barile</a>, <a href="https://www.linkedin.com/in/zeynepsenaagim/">Zeynep Sena Ağım Uslu</a>, and other LinkedIn-less volunteers who made this event possible!</p>
+<p><strong>PS.</strong> Follow us for more info on AI and future events 😊</p>
+
+
+
+ ]]></description>
+  <category>AImeetup</category>
+  <category>SmartCities</category>
+  <category>IoT</category>
+  <guid>https://www.quantumjitter.com/events/2023-07-08/index.html</guid>
+  <pubDate>Fri, 07 Jul 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://www.quantumjitter.com/events/2023-07-08/feature.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
+</channel>
+</rss>

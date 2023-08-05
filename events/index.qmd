@@ -1,0 +1,17 @@
+---
+title: "Events"
+subtitle: "A few brief notes about the events in which we organise or contribute."
+listing:
+  contents: .
+  fields: [image, date, title, reading-time, description]
+  sort: "date desc"
+  type: grid
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+  feed: 
+    categories: R
+page-layout: full
+title-block-banner: true
+comments: false
+---

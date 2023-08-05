@@ -1,0 +1,68 @@
+---
+page-layout: custom
+comments: false
+---
+
+::: light-mode
+::: columns
+::: {.column width="5%"}
+:::
+::: {.column width="50%"}
+![](images/logo-01.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="35%"}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: {.content-visible when-profile="english"}
+::: {style="font-size: xxx-large;font-family: Gill Sans, open serif;"}
+<div style="left-align: center;">
+<span style="color:#F07167">AI Educational Initiative  </span>
+</div>
+:::
+::: {style="font-size: x-large;font-family: Gill Sans, open serif;"}
+*Welcome!*  
+:::
+::: {style="font-synthesis: weight style small-caps;font-size: large;line-height: 2.5;text-align: left;"}
+Explore our website to discover more about AI,  
+the books and podcasts we suggest, and     
+the events we organise.
+:::
+:::
+
+::: {.content-visible when-profile="german"}
+::: {style="font-size: xxx-large;font-family: Gill Sans, open serif;"}
+<div style="left-align: center;">
+AI Educational Initiative  
+<span style="color:#F07167">*KI-Bildungsinitiative*</span>
+</div>
+:::
+::: {style="font-size: x-large;font-family: Gill Sans, open serif;"}
+*Willkommen!*  
+:::
+::: {style="font-synthesis: weight style small-caps;font-size: large;line-height: 2.5;text-align: left;"}
+Erkunde unsere Website, um mehr über AI zu erfahren,  
+die Bücher und Podcasts, die wir empfehlen, und  
+die Veranstaltungen, die wir organisieren.
+:::
+:::
+
+
+::: {.column width="5%"}
+:::
+
+:::
+:::
+:::
+
+::: dark-mode
+![](images/landing%20dark.png)
+:::

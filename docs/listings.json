@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/events/index.html",
+    "items": [
+      "/events/2023-07-08/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/tail/index.html",
+      "/blog/plunge/index.html"
+    ]
+  }
+]

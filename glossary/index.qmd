@@ -1,0 +1,129 @@
+---
+title: "AI Glossary"
+description: "Towards an application of AI based on human rights, the rule of law and democracy"
+title-block-banner: true
+fig-cap-location: bottom
+---
+![Image by <a href="https://www.freepik.com/free-vector/particle-face-tech-background_5617146.htm#query=Artificial%20Intelligence&position=29&from_view=search&track=ais">Freepik</a>](feature.png){fig-align="right"}
+
+> *This glossary is initiated from the the website of [Council of Europe](https://www.coe.int/en/web/artificial-intelligence/glossary). It contains the AI-related terms for general audience and AIEdu team will regularly update and maintain this list with new entries and also descriptive videos.* 
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> A </div>
+:::
+
+<span style="color:#F07167">**ALGORITHM**</span>
+
+Finite suite of formal rules (logical operations, instructions) allowing to obtain a result from input elements. This suite can be the object of an automated execution process and rely on models designed through machine learning.
+
+<span style="color:#F07167">**BIG DATA**</span>
+
+A set of sciences, theories and techniques whose purpose is to reproduce by a machine the cognitive abilities of a human being. Current developments aim to be able to entrust a machine with complex tasks previously delegated to a human.
+
+However, the term artificial intelligence is criticized by experts who distinguish between "strong" AI (who are able to contextualize very different specialized problems completely independently) and "weak" or "moderate" AI (who perform extremely well in their field of training). According to some experts, "strong" AI would require advances in basic research to be able to model the world as a whole and not just improvements in the performance of existing systems.
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> B </div>
+:::
+
+<span style="color:#F07167">**ARTIFICIAL INTELLIGENCE (AI)**</span>
+
+
+The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> C </div>
+:::
+<span style="color:#F07167">**CHATBOT (conversational agent)**</span>
+
+
+Conversational agent that dialogues with its user (for example: empathic robots available to patients, or automated conversation services in customer relations).
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> D </div>
+:::
+<span style="color:#F07167">**DATABASE**</span>
+
+
+A database is a "container" storing data such as numbers, dates or words, which can be reprocessed by computer means to produce information; for example, numbers and names assembled and sorted to form a directory.
+
+<span style="color:#F07167">**DATAMINING (Data analysis and mining)**</span>
+
+
+Datamining makes it possible to analyze a large volume of data and bring out models, correlations and trends.
+
+<span style="color:#F07167">**DATA SCIENCE**</span>
+
+A broad grouping of mathematics, statistics, probability, computing, data visualization to extract knowledge from a heterogeneous set of data (images, sound, text, genomic data, social network links, physical measurements, etc.).
+
+The methods and tools derived from artificial intelligence are part of this family.
+
+<span style="color:#F07167">**DEEP LEARNING**</span>
+
+See Machine learning and Neural Network
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> M </div>
+:::
+
+<span style="color:#F07167">**MACHINE LEARNING**</span>
+
+Machine learning makes it possible to construct a mathematical model from data, including a large number of variables that are not known in advance.  The parameters are configured as you go through a learning phase, which uses training data sets to find links and classifies them. The different machine learning methods are chosen by the designers according to the nature of the tasks to be performed (grouping, decision tree). These methods are usually classified into 3 categories: human-supervised learning, unsupervised learning, and unsupervised learning by reinforcement. These 3 categories group together different methods including neural networks, deep learning etc.
+
+**Example of classification and applications:**
+
+![](AI-ML-en.png)
+
+
+<span style="color:#F07167">**METADATA**</span>
+
+
+Data used to define, contextualize or characterize other data.
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> N </div>
+:::
+
+<span style="color:#F07167">**NEURAL NETWORK (artificial) / FORMAL NEURON**</span>
+
+Algorithmic system, whose design was originally schematically inspired by the functioning of biological neurons and which, subsequently, came close to statistical methods.
+
+The so-called formal neuron is designed as an automaton with a transfer function that transforms its inputs into outputs according to precise logical, arithmetic and symbolic rules. Assembled in a network, these formal neurons are able to quickly operate classifications and gradually learn to improve them.
+
+This type of learning has been tested by tests on games (Go, video games). It is used for robotics, automated translation, etc.
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> O </div>
+:::
+
+<span style="color:#F07167">**OPEN DATA**</span>
+
+The term refers to the public availability, by download, of structured databases. These data may be re-used in a non-monetary way under the conditions of a specific licence, which may in particular specify or prohibit certain purposes of re-use.
+
+Open data is not to be confused with unitary public information available on Internet sites, the entire database of which cannot be downloaded (for example case law databases). It does not replace the mandatory publication of certain administrative or judicial measures or decisions already enacted by certain laws or regulations.
+
+Finally, confusion is sometimes created between the data (open data strictly speaking) and their means of processing (machine learning, data science) for different purposes (search engines, assistance in drafting acts, analysis of jurisprudential trends, anticipation of court decisions).
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> P </div>
+:::
+
+<span style="color:#F07167">**PERSONAL DATA**</span>
+
+Information relating to an identified or identifiable natural person, directly or indirectly, by reference to one or more elements specific to that person.
+
+Among these, sensitive data within the meaning of the General Data Protection Regulation concern personal data relating to racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, as well as genetic data, biometric data, data concerning health or concerning sex life or sexual orientation.
+
+<span style="color:#F07167">**PERSONAL DATA PROCESSING**</span>
+
+
+Any operation or set of operations performed or not using automated processes and applied to personal data or sets of data, such as collection, recording, organisation, structuring, storage, adaptation or modification, retrieval, consultation, use, communication by transmission, dissemination or any other form of making available, linking or interconnection, limitation, erasure or destruction.
+
+<span style="color:#F07167">**PROFILING**</span>
+
+According to Article 4(4) of the GDPR, personal data are processed for the purpose of evaluating certain aspects of a natural person's life (economic situation, health, personal preferences, etc.).
+
+<span style="color:#F07167">**PSEUDONYMISATION**</span>
+
+According to Article 4 of the GDPR, personal data may no longer be attributed to a specific data subject without recourse to additional information, provided that this additional information is kept separately and subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
+
