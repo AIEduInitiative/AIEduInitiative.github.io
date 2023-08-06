@@ -3,8 +3,13 @@ title: "AI Glossary"
 description: "Towards an application of AI based on human rights, the rule of law and democracy"
 title-block-banner: true
 fig-cap-location: bottom
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
 ---
-![Image by <a href="https://www.freepik.com/free-vector/particle-face-tech-background_5617146.htm#query=Artificial%20Intelligence&position=29&from_view=search&track=ais">Freepik</a>](feature.png){fig-align="right"}
+![<font size="1">Image by <a href="https://www.freepik.com/free-vector/particle-face-tech-background_5617146.htm#query=Artificial%20Intelligence&position=29&from_view=search&track=ais">Freepik</a></font>](feature.png){fig-align="right"}
 
 > *This glossary is initiated from the the website of [Council of Europe](https://www.coe.int/en/web/artificial-intelligence/glossary). It contains the AI-related terms for general audience and AIEdu team will regularly update and maintain this list with new entries and also descriptive videos.* 
 

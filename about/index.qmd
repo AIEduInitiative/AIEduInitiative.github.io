@@ -3,12 +3,17 @@ title: ""
 description: ""
 title-block-banner: true
 fig-cap-location: bottom
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
 ---
 
 ::: {.content-visible when-profile="english"}
 ::: columns
 ::: {.column width="30%"}
-![](who_we_are.png)
+![<font size="1">Image by pch.vector on [Freepik](https://www.freepik.com/free-vector/business-team-putting-together-jigsaw-puzzle-isolated-flat-vector-illustration-cartoon-partners-working-connection-teamwork-partnership-cooperation-concept_10606197.htm#query=group&position=11&from_view=search&track=sph)</font>](who_we_are.png)
 :::
 
 ::: {.column width="5%"}

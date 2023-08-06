@@ -1,6 +1,10 @@
 ---
 page-layout: custom
-comments: false
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
 ---
 
 ::: light-mode
@@ -8,7 +12,7 @@ comments: false
 ::: {.column width="5%"}
 :::
 ::: {.column width="50%"}
-![](images/logo-01.png)
+![<font size="1">Image by macrovector on [Freepik](https://www.freepik.com/free-vector/artificial-intelligence-line-concept_9387128.htm#page=6&query=artificial%20intelligence&position=40&from_view=search&track=ais)</font>](images/logo-01.png)
 :::
 
 ::: {.column width="5%"}
