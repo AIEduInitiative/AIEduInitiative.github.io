@@ -7,7 +7,7 @@ format:
     comments: false
 ---
 
-::: {style="font-size: xxx-large;font-family: Gill Sans, open serif;"}
+::: {style="font-size: xx-large;font-family: Gill Sans, open serif;"}
 <p style="text-align:center;"><span style="color:#F07167">AI Educational Initiative  </span></p>
 :::
 ::: {style="font-size: x-large;font-family: Gill Sans, open serif;text-align: center;"}
@@ -16,7 +16,7 @@ the books and podcasts we suggest,
 and the events we organise.
 ::: 
 
-![](images/logo-01.png){fig-align='center' width=35%}
+![](images/homepage-background.png){fig-align='center' width=50%}
 
 <font size="0.5"> <p style="text-align:center;">Image by macrovector on [Freepik](https://www.freepik.com/free-vector/artificial-intelligence-line-concept_9387128.htm#page=6&query=artificial%20intelligence&position=40&from_view=search&track=ais)</p> </font>
 
