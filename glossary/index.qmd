@@ -21,20 +21,20 @@ format:
 
 Finite suite of formal rules (logical operations, instructions) allowing to obtain a result from input elements. This suite can be the object of an automated execution process and rely on models designed through machine learning.
 
+<span style="color:#F07167">**ARTIFICIAL INTELLIGENCE (AI)**</span>
+
+
+The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
+
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> B </div>
+:::
 <span style="color:#F07167">**BIG DATA**</span>
 
 A set of sciences, theories and techniques whose purpose is to reproduce by a machine the cognitive abilities of a human being. Current developments aim to be able to entrust a machine with complex tasks previously delegated to a human.
 
 However, the term artificial intelligence is criticized by experts who distinguish between "strong" AI (who are able to contextualize very different specialized problems completely independently) and "weak" or "moderate" AI (who perform extremely well in their field of training). According to some experts, "strong" AI would require advances in basic research to be able to model the world as a whole and not just improvements in the performance of existing systems.
-
-::: {style="font-size: xxx-large;"}
-<div style="left-align: center;"> B </div>
-:::
-
-<span style="color:#F07167">**ARTIFICIAL INTELLIGENCE (AI)**</span>
-
-
-The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
 
 ::: {style="font-size: xxx-large;"}
 <div style="left-align: center;"> C </div>
