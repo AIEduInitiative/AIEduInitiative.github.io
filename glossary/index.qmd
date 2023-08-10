@@ -23,8 +23,9 @@ Finite suite of formal rules (logical operations, instructions) allowing to obta
 
 <span style="color:#F07167">**ARTIFICIAL INTELLIGENCE (AI)**</span>
 
+A set of sciences, theories and techniques whose purpose is to reproduce by a machine the cognitive abilities of a human being. Current developments aim to be able to entrust a machine with complex tasks previously delegated to a human.
 
-The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
+However, the term artificial intelligence is criticized by experts who distinguish between "strong" AI (who are able to contextualize very different specialized problems completely independently) and "weak" or "moderate" AI (who perform extremely well in their field of training). According to some experts, "strong" AI would require advances in basic research to be able to model the world as a whole and not just improvements in the performance of existing systems.
 
 
 ::: {style="font-size: xxx-large;"}
@@ -32,9 +33,8 @@ The term "big data" refers to a large heterogeneous data set (open data, proprie
 :::
 <span style="color:#F07167">**BIG DATA**</span>
 
-A set of sciences, theories and techniques whose purpose is to reproduce by a machine the cognitive abilities of a human being. Current developments aim to be able to entrust a machine with complex tasks previously delegated to a human.
+The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
 
-However, the term artificial intelligence is criticized by experts who distinguish between "strong" AI (who are able to contextualize very different specialized problems completely independently) and "weak" or "moderate" AI (who perform extremely well in their field of training). According to some experts, "strong" AI would require advances in basic research to be able to model the world as a whole and not just improvements in the performance of existing systems.
 
 ::: {style="font-size: xxx-large;"}
 <div style="left-align: center;"> C </div>
