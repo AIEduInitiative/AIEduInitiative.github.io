@@ -52,7 +52,7 @@ Conversational agent that dialogues with its user (for example: empathic robots 
 
 A database is a "container" storing data such as numbers, dates or words, which can be reprocessed by computer means to produce information; for example, numbers and names assembled and sorted to form a directory.
 
-<span style="color:#F07167">**DATAMINING (Data analysis and mining)**</span>
+<span style="color:#F07167">**DATA MINING (Data analysis and mining)**</span>
 
 
 Datamining makes it possible to analyze a large volume of data and bring out models, correlations and trends.
