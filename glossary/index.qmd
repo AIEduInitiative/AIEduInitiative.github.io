@@ -35,6 +35,11 @@ However, the term artificial intelligence is criticized by experts who distingui
 
 The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
 
+<span style="color:#F07167">**Bias**</span>
+
+There is a famous study where the students were asked to rate their driving skills amongst their peers. The results showed that 80 % asseded their skills to be in the top half of the group. This is of course impossible, and shows that the students have a **bias** in their assessment of their driver's skills. 
+
+Bias meassures how far off a set of results are from the true value. In the case of the students, the true value is 50 %, making the bias 30 percentunits. In AI, bias pops up most notably when it comes to an AI model's prediction. A model might perform well on a certain group of people and less well on an other. We expect, or aim, for the model to have the same performance for both groups, but in this case, the model has a bias for the first group of people and against the second group. Real worlds examples includes [facial recognition models that are biases against people of color](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/), and [resume reasers, biases against people with foreign looking names](https://hbr.org/2016/12/hiring-algorithms-are-not-neutral). 
 
 ::: {style="font-size: xxx-large;"}
 <div style="left-align: center;"> C </div>
@@ -131,4 +136,16 @@ According to Article 4(4) of the GDPR, personal data are processed for the purpo
 <span style="color:#F07167">**PSEUDONYMISATION**</span>
 
 According to Article 4 of the GDPR, personal data may no longer be attributed to a specific data subject without recourse to additional information, provided that this additional information is kept separately and subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
+
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> V </div>
+:::
+
+<span style="color:#F07167">**Variance**</span>
+If you ask people about the distance between the Paris and Amsterdam, you will most likely get an array of difference answeres. If you then go on and ask about the distance to the international space station, you can again expect to get an array of different guesses. Probably even more likely then the answeres to the first question. Since people have a better idea about the distance between cities, than the distance to space stations, the guesses to the first question will surely be less spread out than the guesses to the second. We say that the answeres to the second question have a higher **variance**, then the answeres to the first one; even though the the distance between Paris is slightly larger than the distance to the international space station. 
+
+In AI, **variance** often comes up when we speak about the spread of the AI model's performance. It is ofcourse always desirable for a model to have high performance, however, in certain situation it might be wise to lower the overall performance if that means that we can lower the variance. For example, we prefere a self driving car that always drives modereatly well (low variance) to a car that sometimes drives excellent, and sometimes drives awefull. 
+
+
+
 

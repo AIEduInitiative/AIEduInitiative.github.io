@@ -1,5 +1,6 @@
 ---
 page-layout: custom
+
 format:
   html:
     link-external-icon: false
