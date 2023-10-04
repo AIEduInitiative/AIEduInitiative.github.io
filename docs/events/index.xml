@@ -9,8 +9,72 @@
 <link>https://www.quantumjitter.com/events/index.html</link>
 <atom:link href="https://www.quantumjitter.com/events/index.xml" rel="self" type="application/rss+xml"/>
 <description>Artificial Intelligence Educational Initiative</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 07 Jul 2023 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.294</generator>
+<lastBuildDate>Fri, 13 Oct 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI in Medicine, Law and Computer Science</title>
+  <dc:creator>AIEdu Team</dc:creator>
+  <link>https://www.quantumjitter.com/events/2023-10-14/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.quantumjitter.com/events/2023-10-14/poster.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p>On 8th of July, we had the pleasure to host a meetup on Artificial Intelligence! Aimed at a general audience, we gathered AI scientists and users to share insights on their research, future plans, and concerns related to AI developments.</p>
+<section id="event-details" class="level3">
+<h3 class="anchored" data-anchor-id="event-details">Event Details:</h3>
+<section id="date-october-14th-saturday" class="level4">
+<h4 class="anchored" data-anchor-id="date-october-14th-saturday"><strong>Date:</strong> October 14th , Saturday</h4>
+</section>
+<section id="time-1900-sharp-2100" class="level4">
+<h4 class="anchored" data-anchor-id="time-1900-sharp-2100"><strong>Time:</strong> 19:00 (sharp!)-21:00</h4>
+</section>
+<section id="location-frauenlobstr.-7a-80337-münchen-pathology-institute-lmu" class="level4">
+<h4 class="anchored" data-anchor-id="location-frauenlobstr.-7a-80337-münchen-pathology-institute-lmu"><strong>Location:</strong> Frauenlobstr. 7a, 80337 München (Pathology Institute LMU)</h4>
+<p><br></p>
+</section>
+<section id="expert-talks" class="level4">
+<h4 class="anchored" data-anchor-id="expert-talks">Expert Talks</h4>
+<p>Gain insights from our lineup of esteemed speakers who are experts in their respective fields of Medicine, Law, and Computer Science. They will be sharing their experiences, challenges, and the transformative potential of AI in their domains.</p>
+</section>
+<section id="interactive-panel-discussion" class="level4">
+<h4 class="anchored" data-anchor-id="interactive-panel-discussion">Interactive Panel Discussion</h4>
+<p>Our experts will come together for a panel discussion following the talks, providing different perspectives of the AI landscape. This is a great opportunity to engage in dialogue, ask questions, and discuss the current issues, opportunities, and future directions of AI, as well as AI regulation and ethics.</p>
+</section>
+<section id="speakers" class="level4">
+<h4 class="anchored" data-anchor-id="speakers">Speakers</h4>
+<section id="prof.-dr.-med.-frederick-klauschen" class="level5">
+<h5 class="anchored" data-anchor-id="prof.-dr.-med.-frederick-klauschen"><strong>Prof.&nbsp;Dr.&nbsp;med. Frederick Klauschen</strong></h5>
+<p><em>Digital pathology &amp; AILMU Pathology Institute, Director</em></p>
+</section>
+<section id="dr.-nabil-alsabah" class="level5">
+<h5 class="anchored" data-anchor-id="dr.-nabil-alsabah"><strong>Dr.&nbsp;Nabil Alsabah</strong></h5>
+<p><em>Lead consultant, AI msg systems Berlin</em></p>
+</section>
+<section id="verena-müller" class="level5">
+<h5 class="anchored" data-anchor-id="verena-müller"><strong>Verena Müller</strong></h5>
+<p><em>Law, Science and Technology,LMU</em></p>
+<p>Whether you’re a professional, student, tech enthusiast, or just curious about the world of AI, this meetup promises to be an enriching experience.</p>
+<p>Space is limited so please register <a href="https://www.eventbrite.com/e/ai-educational-initiative-munich-meetup-tickets-731211472197?aff=oddtdtcreator">here</a> to secure your spot for free 😊</p>
+<p>Looking forward to seeing you there!</p>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <category>AImeetup</category>
+  <category>Ethics</category>
+  <category>MedicalInformatics</category>
+  <guid>https://www.quantumjitter.com/events/2023-10-14/index.html</guid>
+  <pubDate>Fri, 13 Oct 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://www.quantumjitter.com/events/2023-10-14/feature.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
 <item>
   <title>Meetup in Heidelberg: Unpacking the Black Box</title>
   <dc:creator>AIEdu Team</dc:creator>
