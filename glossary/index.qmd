@@ -31,6 +31,16 @@ However, the term artificial intelligence is criticized by experts who distingui
 ::: {style="font-size: xxx-large;"}
 <div style="left-align: center;"> B </div>
 :::
+
+<span style="color:#F07167">**Backpropagation**</span>
+Think of an AI model as a box with an input, an output, and multiple dials on the side (see What is an AI-Model).
+This could be text in and text out, as in the case of ChatGPT, or it could be text in and image out, as in the case of DALL-E, or any other form of input and output.
+
+Backpropagation is a particular way of determining how to change the dials to make the model "*better*" after observing the outputs of the model for a while. 
+In its most basic form, it works by comparing the output of the model with what you would like the output to be, and then updating the 
+dials to move closer to that desired output. Crucially, starting with the dials closest to the output, and then working your way **back** to the dials closer to the input. Thereby the name backpropagation.  
+
+
 <span style="color:#F07167">**BIG DATA**</span>
 
 The term "big data" refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).
@@ -73,12 +83,30 @@ The methods and tools derived from artificial intelligence are part of this fami
 See Machine learning and Neural Network
 
 ::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> G </div>
+:::
+
+<span style="color:#F07167">**Gradient**</span>
+An every day example of a gradient, would be a compass. 
+A compass points in the direction that will take you the most north from where you are standing. 
+In simple but general terms, a gradient is an arrow that points in a direction that increases something. 
+If you think of an AI-model as a box with dials, as described in What is an AI model, the gradient is a list telling you how to change each dial
+in relation to all the other dials, in order to make the model sligthly better*.
+
+* Technically, the gradient points in the direction which makes the model slightly worse, and hence you should do the opposite change to what the gradient suggests.
+
+
+::: {style="font-size: xxx-large;"}
 <div style="left-align: center;"> M </div>
 :::
 
 <span style="color:#F07167">**MACHINE LEARNING**</span>
 
-Machine learning makes it possible to construct a mathematical model from data, including a large number of variables that are not known in advance.  The parameters are configured as you go through a learning phase, which uses training data sets to find links and classifies them. The different machine learning methods are chosen by the designers according to the nature of the tasks to be performed (grouping, decision tree). These methods are usually classified into 3 categories: human-supervised learning, unsupervised learning, and unsupervised learning by reinforcement. These 3 categories group together different methods including neural networks, deep learning etc.
+Machine learning is categorized as a sub-group of Artificial Intelligence, where the model discovers the algroitm at hand by learning through trial and error, and/or examples. This is in contrast to, for example, **expert systems**, which are based on human (experts) to specifically telling the 
+model what to do. 
+As an analogy, imagine you are trying to bake a cake you saw somewhere on social media. You know how the end result should look like, a cake, but it is not enteirly clear how to get there. If you now go into the kitchen and by trial and error figures out a way to make the cake, this would be an example of (human)learning, while if you instead looked up the recepie, it would be more similar to an expert system. 
+
+In this example, it is quite clear that the latter approach is more efficient. However, not all tasks are as easy to specify as a receipe. For example, try exaplining how to ride a bike, how to wissle, or how to tell digits apart. In the end you will probably have to resort to wage descriptions, extensive demonstration, and for the participant to do alot of practising, a.k.a. learn. 
 
 **Example of classification and applications:**
 
@@ -86,9 +114,9 @@ Machine learning makes it possible to construct a mathematical model from data, 
 
 
 <span style="color:#F07167">**METADATA**</span>
+Data about data. 
+For example, if you have a grocery list and write down the number of items in your list, that number would be metadata.
 
-
-Data used to define, contextualize or characterize other data.
 
 ::: {style="font-size: xxx-large;"}
 <div style="left-align: center;"> N </div>
@@ -147,5 +175,27 @@ If you ask people about the distance between the Paris and Amsterdam, you will m
 In AI, **variance** often comes up when we speak about the spread of the AI model's performance. It is ofcourse always desirable for a model to have high performance, however, in certain situation it might be wise to lower the overall performance if that means that we can lower the variance. For example, we prefere a self driving car that always drives modereatly well (low variance) to a car that sometimes drives excellent, and sometimes drives awefull. 
 
 
+::: {style="font-size: xxx-large;"}
+<div style="left-align: center;"> W </div>
+:::
+
+
+<span style="color:#F07167">**What is an AI Model**</span>
+A simple way to think of any AI model, is to imagine them as a box that takes in some sort of input, and gives back some sort of output.
+E.g., You write something to chatGPT (input), it write something back (output).
+You show your digit-recognizer-8000 an image of a digit (input), and it tells you which digit it sees (output). 
+Or in a more futuristic scenario, you ask your robot for a cup of tea (input), it kills all of humanity (output). 
+
+The input and output is connected in someway, the way of which is called the **architecture** of the model.
+With each architecture comes a set of **parameters**. Think of them as dials on the outside of our AI-model-box. 
+Turning one of the dials will change the output of the model in some way. Mordern AI-models may have up to trillions of these dials. 
+
+When creating a model, the dials starts of in a more or less random state. 
+In this initial state, the model gives complete nonsensical output.
+To improve we want the model to learn, which more precisly mean we want to find a way to turn the dials so that the model output is more inline with what we want. 
+
+The most basic way to do this is to use **supervised** learning.
+In this case we show the model examples of possible inputs, then look at the output the model gives us and compares them with the output we would like. This comparisson can then be used to turn the dials slightly, making the output just a tiny bit better. 
+This process continues untill at some point the model stops improving, hopefully at a state where the output is good enough for what we want to do. 
 
 

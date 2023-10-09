@@ -1,16 +1,16 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/tail/index.html",
-      "/blog/plunge/index.html"
-    ]
-  },
-  {
     "listing": "/events/index.html",
     "items": [
       "/events/2023-10-14/index.html",
       "/events/2023-07-08/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/tail/index.html",
+      "/blog/plunge/index.html"
     ]
   }
 ]

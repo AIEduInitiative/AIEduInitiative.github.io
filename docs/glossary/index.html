@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.294">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,11 +47,6 @@ ul.task-list li input[type="checkbox"] {
   "panel-placement": "end",
   "type": "overlay",
   "limit": 20,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -72,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:title" content="AIEdu - AI Glossary">
 <meta property="og:description" content="Towards an application of AI based on human rights, the rule of law and democracy">
 <meta property="og:image" content="https://www.quantumjitter.com/glossary/feature.png">
-<meta property="og:site_name" content="AIEdu">
+<meta property="og:site-name" content="AIEdu">
 <meta property="og:image:height" content="550">
 <meta property="og:image:width" content="1024">
 <meta name="twitter:title" content="AIEdu - AI Glossary">
@@ -89,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title"><span style="color:#F07167">AIEdu </span></span>
     </a>
@@ -127,9 +122,9 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">English</span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -189,6 +184,8 @@ A
 B
 </div>
 </div>
+<p><span style="color:#F07167"><strong>Backpropagation</strong></span> Think of an AI model as a box with an input, an output, and multiple dials on the side (see What is an AI-Model). This could be text in and text out, as in the case of ChatGPT, or it could be text in and image out, as in the case of DALL-E, or any other form of input and output.</p>
+<p>Backpropagation is a particular way of determining how to change the dials to make the model “<em>better</em>” after observing the outputs of the model for a while. In its most basic form, it works by comparing the output of the model with what you would like the output to be, and then updating the dials to move closer to that desired output. Crucially, starting with the dials closest to the output, and then working your way <strong>back</strong> to the dials closer to the input. Thereby the name backpropagation.</p>
 <p><span style="color:#F07167"><strong>BIG DATA</strong></span></p>
 <p>The term “big data” refers to a large heterogeneous data set (open data, proprietary data, commercially purchased data).</p>
 <p><span style="color:#F07167"><strong>Bias</strong></span></p>
@@ -217,15 +214,24 @@ D
 <p>See Machine learning and Neural Network</p>
 <div style="font-size: xxx-large;">
 <div style="left-align: center;">
+G
+</div>
+</div>
+<p><span style="color:#F07167"><strong>Gradient</strong></span> An every day example of a gradient, would be a compass. A compass points in the direction that will take you the most north from where you are standing. In simple but general terms, a gradient is an arrow that points in a direction that increases something. If you think of an AI-model as a box with dials, as described in What is an AI model, the gradient is a list telling you how to change each dial in relation to all the other dials, in order to make the model sligthly better*.</p>
+<ul>
+<li>Technically, the gradient points in the direction which makes the model slightly worse, and hence you should do the opposite change to what the gradient suggests.</li>
+</ul>
+<div style="font-size: xxx-large;">
+<div style="left-align: center;">
 M
 </div>
 </div>
 <p><span style="color:#F07167"><strong>MACHINE LEARNING</strong></span></p>
-<p>Machine learning makes it possible to construct a mathematical model from data, including a large number of variables that are not known in advance. The parameters are configured as you go through a learning phase, which uses training data sets to find links and classifies them. The different machine learning methods are chosen by the designers according to the nature of the tasks to be performed (grouping, decision tree). These methods are usually classified into 3 categories: human-supervised learning, unsupervised learning, and unsupervised learning by reinforcement. These 3 categories group together different methods including neural networks, deep learning etc.</p>
+<p>Machine learning is categorized as a sub-group of Artificial Intelligence, where the model discovers the algroitm at hand by learning through trial and error, and/or examples. This is in contrast to, for example, <strong>expert systems</strong>, which are based on human (experts) to specifically telling the model what to do. As an analogy, imagine you are trying to bake a cake you saw somewhere on social media. You know how the end result should look like, a cake, but it is not enteirly clear how to get there. If you now go into the kitchen and by trial and error figures out a way to make the cake, this would be an example of (human)learning, while if you instead looked up the recepie, it would be more similar to an expert system.</p>
+<p>In this example, it is quite clear that the latter approach is more efficient. However, not all tasks are as easy to specify as a receipe. For example, try exaplining how to ride a bike, how to wissle, or how to tell digits apart. In the end you will probably have to resort to wage descriptions, extensive demonstration, and for the participant to do alot of practising, a.k.a. learn.</p>
 <p><strong>Example of classification and applications:</strong></p>
 <p><img src="AI-ML-en.png" class="img-fluid"></p>
-<p><span style="color:#F07167"><strong>METADATA</strong></span></p>
-<p>Data used to define, contextualize or characterize other data.</p>
+<p><span style="color:#F07167"><strong>METADATA</strong></span> Data about data. For example, if you have a grocery list and write down the number of items in your list, that number would be metadata.</p>
 <div style="font-size: xxx-large;">
 <div style="left-align: center;">
 N
@@ -265,6 +271,15 @@ V
 </div>
 <p><span style="color:#F07167"><strong>Variance</strong></span> If you ask people about the distance between the Paris and Amsterdam, you will most likely get an array of difference answeres. If you then go on and ask about the distance to the international space station, you can again expect to get an array of different guesses. Probably even more likely then the answeres to the first question. Since people have a better idea about the distance between cities, than the distance to space stations, the guesses to the first question will surely be less spread out than the guesses to the second. We say that the answeres to the second question have a higher <strong>variance</strong>, then the answeres to the first one; even though the the distance between Paris is slightly larger than the distance to the international space station.</p>
 <p>In AI, <strong>variance</strong> often comes up when we speak about the spread of the AI model’s performance. It is ofcourse always desirable for a model to have high performance, however, in certain situation it might be wise to lower the overall performance if that means that we can lower the variance. For example, we prefere a self driving car that always drives modereatly well (low variance) to a car that sometimes drives excellent, and sometimes drives awefull.</p>
+<div style="font-size: xxx-large;">
+<div style="left-align: center;">
+W
+</div>
+</div>
+<p><span style="color:#F07167"><strong>What is an AI Model</strong></span> A simple way to think of any AI model, is to imagine them as a box that takes in some sort of input, and gives back some sort of output. E.g., You write something to chatGPT (input), it write something back (output). You show your digit-recognizer-8000 an image of a digit (input), and it tells you which digit it sees (output). Or in a more futuristic scenario, you ask your robot for a cup of tea (input), it kills all of humanity (output).</p>
+<p>The input and output is connected in someway, the way of which is called the <strong>architecture</strong> of the model. With each architecture comes a set of <strong>parameters</strong>. Think of them as dials on the outside of our AI-model-box. Turning one of the dials will change the output of the model in some way. Mordern AI-models may have up to trillions of these dials.</p>
+<p>When creating a model, the dials starts of in a more or less random state. In this initial state, the model gives complete nonsensical output. To improve we want the model to learn, which more precisly mean we want to find a way to turn the dials so that the model output is more inline with what we want.</p>
+<p>The most basic way to do this is to use <strong>supervised</strong> learning. In this case we show the model examples of possible inputs, then look at the output the model gives us and compares them with the output we would like. This comparisson can then be used to turn the dials slightly, making the output just a tiny bit better. This process continues untill at some point the model stops improving, hopefully at a state where the output is good enough for what we want to do.</p>
 
 
 
@@ -348,9 +363,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -360,17 +376,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -383,81 +390,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
-        }
-        return container.innerHTML
-      } else {
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      return note.innerHTML;
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      }
-    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -501,7 +433,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -603,18 +534,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>Published with <a href="https://quarto.org/">Quarto</a> v1.4.294</p>
-</div>   
+    <div class="nav-footer-left">Published with <a href="https://quarto.org/">Quarto</a> v1.3.450</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">
-<p>© 2023 <a href="../about">AI Educational Initiative</a></p>
-</div>
+    <div class="nav-footer-right">© 2023 <a href="../about">AI Educational Initiative</a></div>
   </div>
 </footer>
-
 
 
 
